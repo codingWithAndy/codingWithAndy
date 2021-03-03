@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+- I am currently a PhD students at Swansea University studying in Artificial Intelligence.
+- 🔭 I’m currently working on multiple data science projects.
 <!--
 **codingWithAndy/codingWithAndy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
