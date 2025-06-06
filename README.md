@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- I am currently a PhD students at Swansea University studying in Artificial Intelligence.
-- 🔭 I’m currently working on multiple data science projects.
+- I am currently a Lecturer in Computing at Bath Spa University and a PhD students at Swansea University studying in Artificial Intelligence.
+- 🔭 I’m currently working on multiple AI and data science projects.
 - I am also a keen iOS developer with Swift.
 <!--
 **codingWithAndy/codingWithAndy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
