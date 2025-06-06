@@ -58,8 +58,8 @@ github.com -->
 
 ### 📫 Get in Touch
 
-📧 Email: a.gray2@bathspa.ac.uk \\
-🌐 [Bath Spa University Profile](https://www.bathspa.ac.uk/our-people/andy-gray/) \\
-🧑‍💻 GitHub Profile \\
+📧 Email: a.gray2@bathspa.ac.uk \
+🌐 [Bath Spa University Profile](https://www.bathspa.ac.uk/our-people/andy-gray/) \
+🧑‍💻 GitHub Profile \
 
 Feel free to reach out for collaborations, questions, or just a chat about AI and education!
