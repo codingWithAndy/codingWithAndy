@@ -43,6 +43,9 @@ My teaching philosophy emphasizes hands-on learning and real-world applications.
 
 ### 📂 Research Publications
 
+
+2022: 
+
 <!-- Here are some of my key repositories:
 
 CSCM45 - Big Data and Machine Learning
@@ -60,6 +63,6 @@ github.com -->
 
 📧 Email: a.gray2@bathspa.ac.uk \
 🌐 [Bath Spa University Profile](https://www.bathspa.ac.uk/our-people/andy-gray/) \
-🧑‍💻 GitHub Profile \
+🧑‍💻 GitHub Profile
 
 Feel free to reach out for collaborations, questions, or just a chat about AI and education!
