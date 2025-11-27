@@ -21,7 +21,6 @@ Here are some ideas to get you started:
 ## 👋 Hi, I'm Andy Gray
 
 I'm a Senior Lecturer in Computing and Co-Programme Lead for Computing at Bath Spa University. My work bridges teaching and research, with a focus on artificial intelligence and machine learning.
-bathspa.ac.uk
 
 ### 🔬 Research Interests
 
