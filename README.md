@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 ## 👋 Hi, I'm Andy Gray
 
-I'm a Lecturer in Computing and Co-Programme Lead for Computing at Bath Spa University. My work bridges teaching and research, with a focus on artificial intelligence and machine learning.
+I'm a Senior Lecturer in Computing and Co-Programme Lead for Computing at Bath Spa University. My work bridges teaching and research, with a focus on artificial intelligence and machine learning.
 bathspa.ac.uk
 
 ### 🔬 Research Interests
@@ -39,11 +39,12 @@ I teach and coordinate modules in:
 - Innovation Labs I & II
 - Web Development
 
-My teaching philosophy emphasizes hands-on learning and real-world applications.
+My teaching philosophy emphasises hands-on learning and real-world applications.
 
 ### 📂 Research Publications
 
-
+2025:
+2024:
 2022: 
 
 <!-- Here are some of my key repositories:
