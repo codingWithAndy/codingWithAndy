@@ -49,7 +49,7 @@ My teaching philosophy emphasises hands-on learning and real-world applications.
 - arXiv 
 
 2024: 
-- [A Bayesian active learning approach to comparative judgement within education assessment](https://www.sciencedirect.com/science/article/pii/S2666920X24000481)] Computers and Education: Artificial Intelligence,
+- [A Bayesian active learning approach to comparative judgement within education assessment](https://www.sciencedirect.com/science/article/pii/S2666920X24000481) Computers and Education: Artificial Intelligence,
 Volume 6, 2024, 100245, ISSN 2666-920X, https://doi.org/10.1016/j.caeai.2024.100245.
 
 2022: 
