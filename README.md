@@ -44,7 +44,7 @@ My teaching philosophy emphasises hands-on learning and real-world applications.
 
 2025: 
 2024:
-2022: ![Using Elo Rating as a Metric for Comparative Judgement in Educational Assessment](https://dl.acm.org/doi/abs/10.1145/3551708.3556204)
+2022: [Using Elo Rating as a Metric for Comparative Judgement in Educational Assessment. In Proceedings of the 6th International Conference on Education and Multimedia Technology (ICEMT '22). Association for Computing Machinery, New York, NY, USA, 272–278. https://doi.org/10.1145/3551708.3556204](https://dl.acm.org/doi/abs/10.1145/3551708.3556204)
 
 <!-- Here are some of my key repositories:
 
