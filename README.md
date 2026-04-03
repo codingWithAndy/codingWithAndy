@@ -42,10 +42,18 @@ My teaching philosophy emphasises hands-on learning and real-world applications.
 
 ### 📂 Research Publications
 
-2025: 
-2024: [A Bayesian active learning approach to comparative judgement within education assessment](https://www.sciencedirect.com/science/article/pii/S2666920X24000481)] Computers and Education: Artificial Intelligence,
+2026:
+- [Rendering Transparency to Ranking in Educational Assessment via Bayesian Comparative Judgement](). BERA: Review of Education - Transparancy in Assessment.
+
+2025:
+- arXiv 
+
+2024: 
+- [A Bayesian active learning approach to comparative judgement within education assessment](https://www.sciencedirect.com/science/article/pii/S2666920X24000481)] Computers and Education: Artificial Intelligence,
 Volume 6, 2024, 100245, ISSN 2666-920X, https://doi.org/10.1016/j.caeai.2024.100245.
-2022: [Using Elo Rating as a Metric for Comparative Judgement in Educational Assessment.](https://dl.acm.org/doi/abs/10.1145/3551708.3556204) In Proceedings of the 6th International Conference on Education and Multimedia Technology (ICEMT '22). Association for Computing Machinery, New York, NY, USA, 272–278. https://doi.org/10.1145/3551708.3556204
+
+2022: 
+- [Using Elo Rating as a Metric for Comparative Judgement in Educational Assessment.](https://dl.acm.org/doi/abs/10.1145/3551708.3556204) In Proceedings of the 6th International Conference on Education and Multimedia Technology (ICEMT '22). Association for Computing Machinery, New York, NY, USA, 272–278. https://doi.org/10.1145/3551708.3556204
 
 <!-- Here are some of my key repositories:
 
