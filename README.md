@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 
 ## 👋 Hi, I'm Andy Gray
 
-I'm a Senior Lecturer in Computing and Co-Programme Lead for Computing at Bath Spa University. My work bridges teaching and research, with a focus on artificial intelligence and machine learning.
+I'm a Senior Lecturer in Computing and Co-Programme Lead for Computing at Bath Spa University, with a PhD in AI & ML. My work bridges teaching and research, with a focus on artificial intelligence and machine learning.
 
 ### 🔬 Research Interests
 
-I'm part of the EPSRC-funded Centre for Doctoral Training in Enhancing Human Interactions and Collaborations with Data and Intelligence-Driven Systems. My research aims to develop AI systems that support educators by:
+I'm was part of the second cohort of the EPSRC-funded Centre for Doctoral Training in Enhancing Human Interactions and Collaborations with Data and Intelligence-Driven Systems. My research aims to develop AI systems that support educators by:
 bathspa.ac.uk
 
 - Reducing workload
@@ -42,9 +42,9 @@ My teaching philosophy emphasises hands-on learning and real-world applications.
 
 ### 📂 Research Publications
 
-2025:
+2025: 
 2024:
-2022: 
+2022: ![Using Elo Rating as a Metric for Comparative Judgement in Educational Assessment](https://dl.acm.org/doi/abs/10.1145/3551708.3556204)
 
 <!-- Here are some of my key repositories:
 
